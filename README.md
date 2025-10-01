@@ -17,13 +17,6 @@ Mendukung berbagai fitur umum editor teks seperti **Open, Save, Undo, Redo, Find
 
 ---
 
-## 📸 Tampilan
-> GUI berbasis **Tkinter**, ringan dan mudah digunakan.
-
-![Text Editor Preview](https://via.placeholder.com/600x350.png?text=Text+Editor+Preview)
-
----
-
 ## 🛠 Instalasi & Penggunaan
 
 ### 1. Clone Repository
