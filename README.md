@@ -21,11 +21,11 @@ Mendukung berbagai fitur umum editor teks seperti **Open, Save, Undo, Redo, Find
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/username/text-editor-tkinter.git
-cd text-editor-tkinter
+git clone https://github.com/Athallah1234/Text-Editor.git
+cd Text-Editor
 ```
 ### 2. Jalankan Aplikasi
 Pastikan sudah terpasang Python 3.x.
 ```bash
-python text_editor.py
+python run.py
 ```
